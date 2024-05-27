@@ -4,7 +4,7 @@
 
 Informacion y Ejemplos de Bootstrap 
 
-## Ejemeplos Bootstrap
+## Ejemplos Bootstrap
 
 https://getbootstrap.com/docs/5.3/examples/
 
